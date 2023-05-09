@@ -1,2 +1,3 @@
 Hello World!
-Never knew there is a GitHub Classroom before.
+GitHub Classroom is awesome
+Another lab for learning git: https://gitimmersion.com
