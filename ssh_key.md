@@ -10,5 +10,5 @@ When there are multiple keys in your ~/.ssh folder, you may want to specify the 
 git clone git@provider.com:userName/projectName.git --config core.sshCommand="ssh -i ~/location/to/private_ssh_key"
 ```
 
-[1]: <https://stackoverflow.com/questions/14762034/push-to-github-without-a-password-using-ssh-key#14765857> "https://stackoverflow.com/questions/14762034/push-to-github-without-a-password-using-ssh-key#14765857"
+[1]: <https://stackoverflow.com/questions/14762034/push-to-github-without-a-password-using-ssh-key#14765857> "Push to GitHub without a password using ssh-key"
 [2]: <https://stackoverflow.com/questions/41714882/git-how-to-clone-with-ssh-key-username#59074070> "Git how to clone with SSH key, username"
